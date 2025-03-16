@@ -3,17 +3,14 @@
 ## Overview
 PAYKRYPT is an AI-powered fraud detection system that leverages **synthetic data generation, generative AI, deep learning models, and federated learning** to detect fraudulent transactions in real-time while preserving user privacy.
 
----
 
 ## Problem Statement
 We are addressing the issue of financial fraud detection. Traditional fraud detection systems often struggle with accuracy due to imbalanced datasets and limited real-world fraud examples. Our project aims to improve fraud detection using generative AI, synthetic data, and federated learning while preserving data privacy.
 
----
 
 ## Solution
 Our solution leverages **synthetic data generation, generative AI, and federated learning** to enhance fraud detection. We utilize **Duo-GAN with diffusion models** to create realistic synthetic transaction datasets. A combination of **CNNs, LSTMs, and GANs** is employed to detect fraud patterns in transactions. Furthermore, **federated AI with homomorphic encryption** ensures secure, collaborative fraud detection across multiple financial institutions.
 
----
 
 ## Technologies Used
 - **Generative AI**: GANs, Duo-GAN, Diffusion Models for synthetic data generation.
@@ -25,7 +22,6 @@ Our solution leverages **synthetic data generation, generative AI, and federated
 - **Database**: PostgreSQL (or any suitable database for transaction logging).
 - **Deployment**: Docker, FastAPI (optional).
 
----
 
 ## Why Our Solution Stands Out
 Our solution stands out from existing alternatives due to the following reasons:
@@ -36,7 +32,6 @@ Our solution stands out from existing alternatives due to the following reasons:
 5. **Cross-entity collaboration** through federated AI enables fraud detection without data exposure.
 6. **Low Latency & High Accuracy**: Our system is optimized for real-time fraud detection with minimal delays and high fraud detection rates.
 
----
 
 ## Installation & Setup
 ### Clone the repository
@@ -62,14 +57,12 @@ flask run
 ```
 The application will be available at: **http://127.0.0.1:5000**
 
----
 
 ## Security & Privacy
 - **Federated Learning** ensures no transaction data is shared between banks.  
 - **Homomorphic Encryption** allows secure cross-institution fraud detection.  
 - **Real-time monitoring** halts high-risk transactions before completion.  
 
----
 
 ## 👥 Contributors
 - Krish Bansal  
