@@ -1,7 +1,7 @@
-# PAYKRYPT - AI-Powered Fraud Detection System
+# PAYKRYPT - Autonomous Fraud Management System
 
 ## Overview
-PAYKRYPT is an AI-powered fraud detection system that leverages **synthetic data generation, generative AI, deep learning models, and federated learning** to detect fraudulent transactions in real-time while preserving user privacy.
+PAYKRYPT is an Autonomous Fraud Management System that leverages **synthetic data generation, generative AI, deep learning models, and federated learning** to detect fraudulent transactions in real-time while preserving user privacy.
 
 
 ## Problem Statement
